@@ -1,4 +1,4 @@
 define addition(x,y):
-pass
+return x+y;
 define subtraction(x,y):
-pass
+return x-y;
